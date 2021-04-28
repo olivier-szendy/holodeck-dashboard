@@ -94,3 +94,5 @@ urls:
     category: startup
   - url: https://www.rdv-solidarites.fr
     category: startup
+  - url: https://osmose.numerique.gouv.fr
+    category: PNP
